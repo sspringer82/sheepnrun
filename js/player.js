@@ -10,7 +10,6 @@ class Player {
     };
 
     this.currentState = Player.idle;
-    this.isMoving = false;
 
     this.x = 0;
     this.y = 0;
