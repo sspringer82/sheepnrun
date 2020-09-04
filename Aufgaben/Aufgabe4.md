@@ -8,6 +8,11 @@ Bildgröße der einzelnen Animationsphasen im Tileset: **325\*464**
 
 **Hinweis 2:** Ein guter Wert ist ein Animationphasenwechsel alle ~200ms
 
+**Hinweis 3:** Implementiert zumindest folgende Methoden im Player:
+
+- update(timestamp)
+- shouldUpdate(timestamp)
+
 ## Ergebnis
 
 ![](Aufgabe4.gif)
