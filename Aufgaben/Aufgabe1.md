@@ -13,3 +13,8 @@ Zum Zeichnen wird `context.drawImage(x, y, width, height)` benötigt.
 ## Ergebnis
 
 ![](Aufgabe 1.png)
+
+## Links
+
+- https://developer.mozilla.org/de/docs/Web/HTML/Canvas
+- https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/Image
