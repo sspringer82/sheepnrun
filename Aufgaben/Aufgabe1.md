@@ -12,7 +12,7 @@ Zum Zeichnen wird `context.drawImage(image, x, y, width, height)` benötigt.
 
 ## Ergebnis
 
-![](Aufgabe 1.png)
+![](Aufgabe1.png)
 
 ## Links
 
