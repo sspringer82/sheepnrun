@@ -40,7 +40,7 @@ class PlatformCollection {
   update(timestamp) {
     if (this.shouldUpdate(timestamp)) {
       this.platforms.forEach((platform, index) => {
-        if (platform.x + platform.width < 0) {
+        if (platform.x + platform.width < -platform.width) {
           const p = this.platforms.splice(index, 1)[0];
           const lastPlatform = this.platforms[this.platforms.length - 1];
           p.updatePosition(lastPlatform.x + lastPlatform.width, p.y);
