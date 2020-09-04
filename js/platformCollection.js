@@ -49,6 +49,7 @@ class PlatformCollection {
           platform.updatePosition(platform.x - 5, platform.y);
         }
       });
+      this.lastUpdate = timestamp;
     }
   }
 
