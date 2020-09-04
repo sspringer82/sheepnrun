@@ -4,6 +4,8 @@ Zeichne das Schaf, erstmal noch ohne Animation. Zeichne dafür das erste Bild au
 
 Bildgröße der einzelnen Animationsphasen im Tileset: **325\*464**
 
+Player-Y: **202**
+
 **Hinweis**: `drawImage(image, sourceX, sourceY, sourceWidth, sourceHeight, x, y, width, height);`
 
 ## Ergebnis
