@@ -2,7 +2,7 @@ class PlatformCollection {
   constructor(context) {
     this.context = context;
     this.platforms = [];
-    this.updateEvery = 35;
+    this.updateEvery = 15;
     this.lastUpdate = 0;
     this.y = 282;
     this.count = 0;
